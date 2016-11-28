@@ -13,6 +13,6 @@ How do the diagrams help you visualize the branch structure?
 R: Helps to see more cleary the tree of commits.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-
+R: The result is the junction of the branches. We can represent it with line that links them both.
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
