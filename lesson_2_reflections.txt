@@ -16,3 +16,4 @@ the diagram the way we do?
 R: The result is the junction of the branches. We can represent it with line that links them both.
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+R: pro automatic is the easiness; cons automatic is bugs; pro manual is no bugs; cons manual is the hardness.
