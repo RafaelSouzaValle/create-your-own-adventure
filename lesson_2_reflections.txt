@@ -1,8 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
-R: .git diretory is created. It's necessary do track the files.
+R: .git diretory is created. It's necessary to track the files.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-R: staging area is tracked
+R: staging area is a transitory state of the version control, working directory is the "main" space of the master file and the repository group all the versions. It offers organization to the changes.
 How can you use the staging area to make sure you have one commit per logical
 change?
 R: Using the command "git add" after wich alteration in the code.
@@ -10,10 +10,10 @@ What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 R: Branches can be helpful to modify codes without change the master code
 How do the diagrams help you visualize the branch structure?
-R: Helps to see more cleary the tree of commits.
+R: Helps to see more cleary the tree of commits, logs and branches.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-R: The result is the junction of the branches. We can represent it with line that links them both.
+R: The result is the junction of the branches. We can represent it with lines that links them both to one another branch.
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
-R: pro automatic is the easiness; cons automatic is bugs; pro manual is no bugs; cons manual is the hardness.
+R: pro automatic means easiness; cons automatic means maybe bugs; pro manual helps to fix bugs; cons manual means hardness.
