@@ -26,4 +26,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Make branchs separately turns the coding more social (merging codes from others collaborers) and more secure to try new ideas without to change the master code.
